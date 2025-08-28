@@ -1,4 +1,4 @@
-# Streamlit secrets file (NEVER push this!)
+# Streamlit secrets file 
 .streamlit/secrets.toml
 
 # Log files
