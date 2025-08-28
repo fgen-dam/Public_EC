@@ -1,0 +1,11 @@
+# Streamlit secrets file (NEVER push this!)
+.streamlit/secrets.toml
+
+# Log files
+*.log
+ui.log
+
+# Python virtual environment and cache
+venv/
+*.venv
+__pycache__/
